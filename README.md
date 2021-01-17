@@ -1,4 +1,4 @@
-# spellcheck
+# spellchecker
 This is a simple C program that checks if a word is correct and finds the nearest correct word if it is wrong.
 
 # Getting Started
